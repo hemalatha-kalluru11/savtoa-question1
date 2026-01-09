@@ -29,6 +29,6 @@ Motor has stopped
 Light switched on
 Light switched off
 
-## Note
+# Note
 This solution is designed to be easily extended by adding new device
 classes without changing the existing controller logic.
